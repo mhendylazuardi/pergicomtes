@@ -1,0 +1,50 @@
+.signUp .navbar{
+    background-color: #f5f6fa;
+    margin-bottom: 5px;
+}
+
+.signUp .navbar-brand img{
+    position: relative;
+    width: 200px;
+    left: 85px;
+}
+
+
+.signUp .container-fluid{
+    background-color: var(--primary-color);
+    height:700px;
+}
+
+.signUp .btn-group{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.signUp .form-group{
+    margin-bottom: 30px;
+}
+
+.signUp .form-group input{
+    margin-top: -1px;
+}
+
+.signUp .btn-search-ticket button{
+    margin-top: 30px;
+    width: 100%;
+}
+
+footer{
+    position: relative;
+    background-color: #dfe6e9;
+    width: 100%;
+}
+
+footer .col-4{
+    border-right: 1px solid #000000;
+    height: 70px;
+}
+
+footer .col-4 i{
+    margin-top: 6px;
+    font-size: 32px;
+}

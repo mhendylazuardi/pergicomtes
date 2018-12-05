@@ -1,0 +1,62 @@
+.ticket-plane nav{
+    background-color: var(--primary-color);
+    margin-bottom: 20px;
+}
+
+.ticket-plane nav i{
+    color: #ffffff;
+    margin-top: 5px;
+}
+
+.ticket-plane nav span{
+    color: #ffffff;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.ticket-plane nav p{
+    color: #ffffff;
+    font-size: 8px;
+    margin-left: 29px;
+    margin-bottom: -3px;
+}
+
+.ticket-plane .card{
+    margin-bottom: 20px;
+}
+
+.ticket-plane .inline-ticket-title img, p{
+    display: inline;
+}
+
+.ticket-plane .inline-ticket-title p{
+    font-size: 10px;
+    margin-left: 5px;
+}
+
+.ticket-plane .card-body img{
+    width: 30px;
+}
+
+.ticket-plane .card-body .row .col-5 span{
+    color: var(--primary-color);
+    font-weight: bold;
+}
+
+.ticket-plane .card-body .row .col-2 p{
+    color: black;
+    font-size: 8px;
+}
+
+.ticket-plane .card-body .row .col-5 p{
+    color: var(--primary-color);
+    font-size: 10px;
+}
+
+.ticket-plane .card-footer p{
+    font-size: 10px;
+}
+
+.ticket-plane .card-footer span{
+    font-size: 12px;
+}

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Source+Sans+Pro');
+:root{
+    --primary-color: #4834d4;
+    --secondary-color: #ffffff;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    overflow-x: hidden;
+}
+
+
+
+
