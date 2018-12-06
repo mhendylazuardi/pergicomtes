@@ -25,3 +25,11 @@
     background-color: #dfe6e9;
     color: var(--primary-color);
 }
+
+.footer-ticket-detail{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #ffffff;
+}

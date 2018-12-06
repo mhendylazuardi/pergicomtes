@@ -73,19 +73,19 @@ class SignUpPage extends Component{
                     <div className="row text-center">
                         <div className="col-4">
                             <a href="#">
-                                <i className="fas fa-plane"/>
+                                <i className="fas fa-plane"/><br/>
                                 <p>Pesawat</p>
                             </a>
                         </div>
                         <div className="col-4">
                             <a href="#">
-                                <i className="fas fa-users"/>
+                                <i className="fas fa-users"/><br/>
                                 <p>Login</p>
                             </a>
                         </div>
                         <div className="col-4">
                             <a href="#">
-                                <i className="fas fa-ellipsis-v"/>
+                                <i className="fas fa-ellipsis-v"/><br/>
                                 <p>Menu</p>
                             </a>
                         </div>
