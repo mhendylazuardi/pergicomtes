@@ -2,6 +2,7 @@ import React, {Component} from 'react'
 import {BrowserRouter, Switch, Route} from "react-router-dom";
 import SignUpPage from "../Component/SignUpPage";
 import Ticket from "../Component/Ticket";
+import TicketDetail from "../Component/TicketDetail";
 
 // PUBLIC
 
@@ -30,6 +31,7 @@ class Routing extends Component{
                     <Switch>
                         <Route exact path="/" component={SignUpPage}/>
                         <Route exact path="/ticket" component={Ticket}/>
+                        <Route exact path="/detailticket" component={TicketDetail}/>
                     </Switch>
                 </BrowserRouter>
             </div>

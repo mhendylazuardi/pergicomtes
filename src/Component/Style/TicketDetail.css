@@ -1,0 +1,27 @@
+.ticket-detail nav{
+    background-color: var(--primary-color);
+    margin-bottom: 20px;
+}
+
+.ticket-detail nav i{
+    color: #ffffff;
+    margin-top: 5px;
+}
+
+.ticket-detail nav span{
+    color: #ffffff;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.ticket-detail nav p{
+    color: #ffffff;
+    font-size: 8px;
+    margin-left: 29px;
+    margin-bottom: -3px;
+}
+
+.ticket-detail .title-ticket{
+    background-color: #dfe6e9;
+    color: var(--primary-color);
+}
